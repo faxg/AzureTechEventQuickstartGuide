@@ -133,7 +133,7 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/
 
 
 ### Machine Learning and Data Science
-Azure ML and other services help you run e.g. Python notebooks or Data transfomation and Analytics jobs.
+Solutions for Advanced Data Analysis with Python, MLOps etc.
 
 - __Azure Machine Learning__: Train, test deploy your Machine Learning Models
 - ML Studio: https://ml.azue.com
@@ -161,10 +161,12 @@ These are APIs and Cloud tools you can use for building intelligent aplications.
 
   - __Computer Vision__: OCR, Object detection, Image classification, Spatial Analysis ...
     - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
-    - 
+    
 
-  - __Language Service__: NLP, Text Classification, Translation, Language detection
+  - __Language Service__: Text Analytics / Natural Language Processing, Text Classification, Translation, Language detection ...
     - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/
+    - Language Studio: https://language.azure.com/
+   
 
   - __Speech Service__: Speech-to-Text / Text-to-Speech, Translation, Transcription, Voice Assistants, Intent recognition...
     - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/
