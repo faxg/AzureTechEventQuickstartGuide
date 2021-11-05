@@ -3,11 +3,6 @@
 Welcome to **MAKEathon 2021 @ FHNW**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
 
 
-
-
-
-
-
 If you have any questions, please ping us on the __Microsoft Teams__ channel, and we'll try to help you asap.
 
 
@@ -61,6 +56,7 @@ __Important__: You only need ONE per team.
 ![](img/sponsored_subscription.jpg)
 
 
+
 	
 
 ## Essential Links
@@ -92,8 +88,11 @@ https://aka.ms/MAKEathon2021/Guide
 
 
 
-## Choose your stack
+## Choose your Azure Services
 Depending on what technology and frameworks you want to use, here're some recommendations to get started.
+
+__Documentation Overview__ (all services): https://docs.microsoft.com/en-us/azure/?product=featured
+
 
 
 
@@ -117,35 +116,65 @@ Learn more here:
 https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/
 
 
-### Data Storage
+### Databases and Storage
+Azure Database services: 
+https://docs.microsoft.com/en-us/azure/?product=databases
+
 
 - __Azure Blob storage__: Store unstructured objects, e.g. images, documents etc):
 https://docs.microsoft.com/en-us/azure/storage/blobs/
 
-- __Azure Cosmos DB__: Fast NoSQL database, multiple APIs for SQL, MongoDB, Cassandra, Table Storage
+- __Azure Cosmos DB__: Fast NoSQL database, multiple APIs e.g. Gremlin (Graph), SQL, MongoDB, Cassandra, Table Storage
   -  https://docs.microsoft.com/en-us/azure/cosmos-db/
 
 
-Overview of all :
-https://docs.microsoft.com/en-us/azure/?product=databases
 
 
 
 
 ### Machine Learning and Data Science
+Azure ML and other services help you run e.g. Python notebooks or Data transfomation and Analytics jobs.
 
+- __Azure Machine Learning__: Train, test deploy your Machine Learning Models
+- ML Studio: https://ml.azue.com
+- Docs: https://docs.microsoft.com/en-us/azure/machine-learning/
+
+- __Azure Databricks__: Unified Analytics Platform.
+https://docs.microsoft.com/en-us/azure/databricks/
+
+
+- 
 ### Cognitive Services and A.I.
+These are APIs and Cloud tools you can use for building intelligent aplications.
 
-### IoT and devices
+- __Azure Applied AI Services__ 
+  - Form Recognizer: Extract text from forms and documents
+     - Docs: https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/
 
-### Mixed-Reality 
-
-### Gaming
-
-
-
-
+  - Azure Cognitive Search: Build semanticly enriched, searchable document databases
+    - Docs: https://docs.microsoft.com/en-us/azure/search/
 
 
 
-Infopages to get started with Azure at Tech events (Hackathons, workshops etc.)
+- __Azure Cognitive Services__ Vision, Language, Speech 
+  - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/
+
+  - __Computer Vision__: OCR, Object detection, Image classification, Spatial Analysis ...
+    - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
+    - 
+
+  - __Language Service__: NLP, Text Classification, Translation, Language detection
+    - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/
+
+  - __Speech Service__: Speech-to-Text / Text-to-Speech, Translation, Transcription, Voice Assistants, Intent recognition...
+    - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/
+    - Speech Studio : https://speech.microsoft.com/
+
+
+
+- __Azure Maps__ : Maps, Search, Routing, Traffic, Weather, Time Zones, Geolocation, Geofencing, Map Data, Creator, and Spatial Operations
+  - Docs: https://docs.microsoft.com/en-us/azure/azure-maps/
+
+
+
+
