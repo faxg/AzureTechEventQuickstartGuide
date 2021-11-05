@@ -2,37 +2,148 @@
 
 Welcome to **MAKEathon 2021 @ FHNW**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
 
-Event page: 
+
+
+
+
 
 
 If you have any questions, please ping us on the __Microsoft Teams__ channel, and we'll try to help you asap.
 
 
-**Please note:** Consider registering to our Skill
+**Please note:** Consider registering to our __SkillForward 2021__ campaign - completely free, instructor-led virtual trainings plus Certification exam voucher for *students and teachers* : https://aka.ms/SkillForward21
 
-## Overview
+
+
+
+## Event Overview
+- Event page: https://www.fhnw.ch/plattformen/makeathon/
+- Schedule: https://www.fhnw.ch/plattformen/makeathon/schedule/
+- Challenges: https://www.fhnw.ch/plattformen/makeathon/challenges/
+
+## Getting Started with Microsoft Azure
+If you want to get the best Developer experience, you'll need to following:
+- GitHub account (https://github.com)
+- Microsoft Azure account (https://portal.azure.com) 
+
+You can also log-in to Azure using your existing __GitHub account__
+
+
+It's best to use your private e-mail for the accounts, e.g. not your work or university e-mail, as this could lead to some problems with free Azure Credits etc.
+
+Never used Azure before?
+We recommend: https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
+
+__Hint__: 
+If English is not your first language, try changing `/en-us/` to `/de-de/` (for example). Works for most `*.microsoft.com` pages, including docs and learn tutorials.
+
+
+
+
+## Get Free Azure Credits (Azure Passes)
+We provide __100$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
+These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get a "Azure Sponsored Subscription" in your account.
+
+__Important__: You only need ONE per team.
+
+* Go to: __https://azcheck.in/fhn211105__
+* Copy the voucher code and then click “=> Get on board with Azure”
+![](img/checkin_pass.jpg)
+
+* You will get forwarded to the website https://www.microsoftazurepass.com/
+* Click “Start” and follow the process
+* Double-check you are using the right Microsoft account, in case you have multiple.
+
+![](img/confirm_account.jpg)
+
+* The process should forward to the Azure Portal after a few minutes. You should now be able to find the sponsored Subscription.
+
+![](img/sponsored_subscription.jpg)
+
+
+	
+
+## Essential Links
+
 - Azure Web Portal:  https://portal.azure.com
-- Azure Developer Guide (comprehensive): 
-- Azure Charts w. links to Docs:
-
-- Microsoft Learn (Tutorials etc): 
-- Microsoft Docs (tech docs): 
-- Channel9 (Videos): 
-- Microsoft Developer @ YouTube:
+- Microsoft Docs (tech docs): https://docs.microsoft.com/en-us/
+- Microsoft Learn (Tutorials etc): https://docs.microsoft.com/en-us/learn/
+- Azure Charts (with links to docs): https://azurecharts.com/links
 
 
-## Azure Passes
-Azure Passes give you free credits in form of a "sponsored subscription" on Azure for the Hackathon. 
+- Azure Developer Guide (PDF, 140 pages): 
+https://aka.ms/MAKEathon2021/Guide
 
 
-## Azure Compute
-Compute referes to all the ways you can "run" things on Azure - for example a web server, a Docker container or Serverless Azure Functions.
 
-Some selected MS Learn tutorials:
-For Python:
+- Channel9 (Video and live events): https://channel9.msdn.com/
+- Microsoft Developer @ YouTube: https://www.youtube.com/c/MicrosoftDeveloper
 
 
-## Azure Cognitive and Applied A.I. Services
+- Microsoft Certifications: https://docs.microsoft.com/en-us/learn/certifications/
+
+    - https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
+    - https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/
+    - https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/
+    - https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/
+
+
+- StackOverflow: https://stackoverflow.com/questions/tagged/azure
+
+
+
+## Choose your stack
+Depending on what technology and frameworks you want to use, here're some recommendations to get started.
+
+
+
+### Web Apps and APIs
+- __Azure App Service__:  Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure.
+  - Docs: https://docs.microsoft.com/en-us/azure/app-service/
+  - Learn module: https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/
+
+- __Azure Static Web Apps__: allows you to build modern web applications that automatically publish to the web as your code changes. Full-stack development combining Frontend (React, Angular, Vue, ...), Serverless Backend API using Azure Functions (NodeJS, Python, C#,...) and GitHub Actions CI/CD pipeline. 
+    - Video: https://channel9.msdn.com/Shows/Docs-Azure/Building-and-Deploying-a-Static-Web-App/
+    - Docs: https://docs.microsoft.com/en-us/azure/static-web-apps/overview
+    - Learning Path: https://docs.microsoft.com/en-us/learn/paths/azure-static-web-apps/
+
+- __Azure Functions__ (Serverless): You can use Functions to build web APIs, respond to database changes, process IoT streams, manage message queues, and more.
+  - https://docs.microsoft.com/en-us/azure/azure-functions/
+
+
+
+**Note:** we recommend using __GitHub Actions__ as CI/CD pipeline.
+Learn more here: 
+https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/
+
+
+### Data Storage
+
+- __Azure Blob storage__: Store unstructured objects, e.g. images, documents etc):
+https://docs.microsoft.com/en-us/azure/storage/blobs/
+
+- __Azure Cosmos DB__: Fast NoSQL database, multiple APIs for SQL, MongoDB, Cassandra, Table Storage
+  -  https://docs.microsoft.com/en-us/azure/cosmos-db/
+
+
+Overview of all :
+https://docs.microsoft.com/en-us/azure/?product=databases
+
+
+
+
+### Machine Learning and Data Science
+
+### Cognitive Services and A.I.
+
+### IoT and devices
+
+### Mixed-Reality 
+
+### Gaming
+
+
+
 
 
 
