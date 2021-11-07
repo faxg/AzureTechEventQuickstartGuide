@@ -169,7 +169,7 @@ These are APIs and Cloud tools you can use for building intelligent aplications.
    
 
   - __Speech Service__: Speech-to-Text / Text-to-Speech, Translation, Transcription, Voice Assistants, Intent recognition...
-    - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/
+- Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service
     - Speech Studio : https://speech.microsoft.com/
 
 
@@ -178,5 +178,21 @@ These are APIs and Cloud tools you can use for building intelligent aplications.
   - Docs: https://docs.microsoft.com/en-us/azure/azure-maps/
 
 
+
+TODO: 
+- How to invite others to your RG ?
+- Data pre-prcessing (Azure ML or Data Factory)
+- Visualization with Power BI
+- Storage accounts / Blob container public access - Generate SAS
+
+
+
+###  Azure SDKs and REST API
+Most Azure Servies have SDK support for common languages (Python, JavaScript, C#, ...)
+
+- Python:
+  - SDK API Browser: https://docs.microsoft.com/en-us/python/api/?view=azure-python
+- JavaScript / Node
+  - SDK API Browser: https://docs.microsoft.com/en-us/javascript/api/?view=azure-node-latest
 
 
