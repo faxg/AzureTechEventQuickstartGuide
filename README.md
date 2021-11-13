@@ -15,6 +15,13 @@ If you have any questions, please ping us on the __Microsoft Teams__ channel, an
 - Schedule: https://www.dayone.swiss/what-we-do/dayone-events/health-hack/
 - Challenges: https://healthhack.solutions/event/5
 
+Find the slides from the kickoff here:
+https://speakerdeck.com/faxg/dayone-healthhack-2021-microsoft-contribution
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/9bca5214e20b48b38b55b0ef9999ae0a" title="DayONE HealthHack 2021 - Microsoft contribution" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 432px;" data-ratio="1.2962962962962963"></iframe>
+
+
+
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
 - GitHub account (https://github.com)
