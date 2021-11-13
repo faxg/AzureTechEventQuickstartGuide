@@ -31,31 +31,6 @@ If English is not your first language, try changing `/en-us/` to `/de-de/` (for 
 
  
 
-
-## Get Free Azure Credits (Azure Passes)
-We provide __100$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
-These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get a "Azure Sponsored Subscription" in your account.
-
-__Important__: You only need ONE per team.
-
-* Go to: __https://azcheck.in/doh211113__
-* Copy the voucher code and then click “=> Get on board with Azure”
-![](img/checkin_pass.jpg)
-
-* You will get forwarded to the website https://www.microsoftazurepass.com/
-* Click “Start” and follow the process
-* Double-check you are using the right Microsoft account, in case you have multiple.
-
-![](img/confirm_account.jpg)
-
-* The process should forward to the Azure Portal after a few minutes. You should now be able to find the sponsored Subscription.
-
-![](img/sponsored_subscription.jpg)
-
-
-
-	
-
 ## Essential Links
 
 - Azure Web Portal:  https://portal.azure.com
@@ -70,7 +45,9 @@ __Important__: You only need ONE per team.
 
 
 
-## Choose your Azure Services
+
+
+## Azure Cloud Services
 Depending on what technology and frameworks you want to use, here're some recommendations to get started.
 
 __Documentation Overview__ (all services): https://docs.microsoft.com/en-us/azure/?product=featured
@@ -81,7 +58,7 @@ __Documentation Overview__ (all services): https://docs.microsoft.com/en-us/azur
 ### Web Apps and APIs
 - __Azure App Service__:  Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure.
   - Docs: https://docs.microsoft.com/en-us/azure/app-service/
-  - Learn module: https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/
+  - Learning module: https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/
 
 - __Azure Static Web Apps__: allows you to build modern web applications that automatically publish to the web as your code changes. Full-stack development combining Frontend (React, Angular, Vue, ...), Serverless Backend API using Azure Functions (NodeJS, Python, C#,...) and GitHub Actions CI/CD pipeline. 
     - Video: https://channel9.msdn.com/Shows/Docs-Azure/Building-and-Deploying-a-Static-Web-App/
@@ -117,7 +94,7 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/
 Solutions for Advanced Data Analysis with Python, MLOps etc.
 
 - __Azure Machine Learning__: Train, test deploy your Machine Learning Models
-- ML Studio: https://ml.azue.com
+- ML Studio: https://ml.azure.com
 - Docs: https://docs.microsoft.com/en-us/azure/machine-learning/
 
 
@@ -125,10 +102,11 @@ Solutions for Advanced Data Analysis with Python, MLOps etc.
 These are APIs and Cloud tools you can use for building intelligent aplications.
 
 - __Azure Applied AI Services__ 
-  - Form Recognizer: Extract text from forms and documents
+  - __Form Recognizer__: Extract text from forms and documents
      - Docs: https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/
+     - 
 
-  - Azure Cognitive Search: Build semanticly enriched, searchable document databases
+  - __Azure Cognitive Search__: Build semanticly enriched, searchable document databases
     - Docs: https://docs.microsoft.com/en-us/azure/search/
 
 
@@ -137,7 +115,9 @@ These are APIs and Cloud tools you can use for building intelligent aplications.
   - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/
 
   - __Computer Vision__: OCR, Object detection, Image classification, Spatial Analysis ...
+    - Studio: 
     - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
+    
     
 
   - __Language Service__: Text Analytics / Natural Language Processing, Text Classification, Translation, Language detection ...
@@ -171,83 +151,20 @@ Microsoft Power Plaform is a Low-Code Business Application Plattform. It's a gre
 your hack prototype.
 
 - __Power Platform Overview__:
-  - Docs: 
-- __Power Automate__:
-  - Docs: 
-- __Power Apps__: 
-  - Docs: 
-- __Power BI__: Great visualizations and Dashboards
-  - Docs: 
+  - Docs: https://docs.microsoft.com/en-us/power-platform/
+- __Power Automate__: Power Automate is a service that helps you create automated workflows between your favorite apps and services to synchronize files, get notifications, collect data, and more.
+  - Docs: https://docs.microsoft.com/en-us/power-automate/
+- __Power Apps__: Learn how to quickly build low-code apps that modernize processes and solve tough business challenges in your organization using Power Apps.
+  - Docs: https://docs.microsoft.com/en-us/powerapps/
+- __Power BI__: Power BI amplifies your insights and the value of your data. Connect, transform and model your data, then create reports and dashboards.
+  - Docs: https://docs.microsoft.com/en-us/power-bi/
 
 
 ## How to .. 
-- How to invite others to your RG ?
-- Data pre-prcessing (Azure ML or Data Factory)
-- Visualization with Power BI
-- Storage accounts / Blob container public access - Generate SAS
 
-### Create a PowerApp + Azure integrated Trial environment for your Hack
-In this section we are going to create: 
+## How to invite team members to work on your Azure Subscription  ?
+...
 
-- Office 365 subscription 
-- Azure Subscription 
-- GitHub subscription 
-
-All connected like in an enterprise. 
-
-- Start a browser in InPrivate Mode 
-- Visit this website: https://www.microsoft.com/en-us/microsoft-365/try
-- Click on Try one month free 
-![Trial account](https://link)
-- Then click on Create one
-![Create account](https://link)
-- The click on Get a new email address 
-![New Email](https://link)
-
-The name is not really important (as will not be your user account for office 365 in the end) but you need to remember it. 
-
-![create account](https://link)
-
-![Password](https://link)
-
-![Name](https://link)
-
-![Puzzle](https://link)
-
-![Stay signed in?](https://link)
-
-
-- Now, without closing the tab, navigate to 
-https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot%3aoverviewtab
-
-![Free Trial]()
-
-- You need to provide a valid phone number to receive the code: 
-![Free Trial]()
-- At this point, we are able to define our tenant name the first Office 365 (Admin) account 
-![Domain name]()
-
-
- Now, your office 365 tenant is ready to be used! 
-
-
-
-- Now you can create a GitHub account using the admin account created. 
-
-- Click on the Azure Pass link nad great the github account 
-- You need to verify yourself accessing the email of ADMIN and adding the code. 
-- Go to https://office.com and sign in with the admin account you create before and open Outlook 
-
- 
- - Click on Skip Personalization 
- - Now, Login in the previous Tab using Github Account
- - Now we have the Azure Pass code! 
- - Click now on Get On board to Azure! 
- - Click on Start and then Confirm the Microsoft Account 
- - Validate the PROMO code..  
- - Done! 
-
- 
-
-Now it's possible to create accounts for all the hackers in the team. 
- 
+## How to create a Microsoft Trial environment for your Hack?
+If you want to setup a fully new trial environment for the Hackathon, including Azure, GitHub and Microsoft M365, follow this guide:
+[create_hack_environment.md](./create_hack_environment.md)
