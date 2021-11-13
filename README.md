@@ -1,4 +1,4 @@
-# DayONE 2021 Azure Quickstart Guide
+# DayONE 2021 Microsoft Quickstart Guide
 
 Welcome to **DayONE 2021 Health Hack Ressources**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
 
