@@ -19,12 +19,15 @@ All connected like in an enterprise.
 ![Trial account](img/m365_trial.png)
 
 - Then click on __Create one__
+
 ![Create account](img/m365_create_account.png)
 
 - The click on __Get a new email address__ 
+
 ![New Email](img/m365_create_email.png)
 
 - **Note:** The name is not really important (as it will not be your user account for office 365 in the end) but you need to remember it. 
+
 ![New E-mail 2](img/m365_create_email2.png)
 ![Password](img/m365_create_password.png)
 ![Provide your name](img/m365_create_your_name.png)
