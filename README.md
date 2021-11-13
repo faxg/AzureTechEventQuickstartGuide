@@ -169,9 +169,11 @@ your hack prototype.
 
 ## How to .. 
 
-## How to invite team members to work on your Azure Subscription  ?
-...
 
 ## How to create a Microsoft Trial environment for your Hack?
-If you want to setup a fully new trial environment for the Hackathon, including Azure, GitHub and Microsoft M365, follow this guide:
+If you want to setup a fully new trial environment for the Hackathon, including Azure, GitHub and Microsoft M365 with Power Platform, follow this guide:
 [create_hack_environment.md](./create_hack_environment.md)
+
+
+## How to invite team members to work on your Azure Subscription  ?
+...
