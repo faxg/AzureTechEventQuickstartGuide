@@ -2,7 +2,7 @@
 
 Welcome to **DayONE 2021 Health Hack Ressources**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
 
-If you have any questions, please ping us on the __Microsoft Teams__ channel, and we'll try to help you asap.
+If you have any questions, please ping us on the __Slack channel (ask_microsoft) __, and we'll try to help you asap.
 
 
 
