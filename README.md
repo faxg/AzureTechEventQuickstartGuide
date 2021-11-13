@@ -13,7 +13,7 @@ If you have any questions, please ping us on the __Microsoft Teams__ channel, an
 - Timeframe: 13.11. - 27.11.2021
 - Event page: https://www.dayone.swiss/what-we-do/dayone-events/health-hack/
 - Schedule: https://www.dayone.swiss/what-we-do/dayone-events/health-hack/
-- Challenges: https://www.dayone.swiss/what-we-do/dayone-events/health-hack/
+- Challenges: https://healthhack.solutions/event/5
 
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
