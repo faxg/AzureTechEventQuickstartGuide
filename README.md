@@ -113,7 +113,8 @@ These are APIs and Cloud tools you can use for building intelligent aplications.
 - __Azure Applied AI Services__ 
   - __Form Recognizer__: Extract text from forms and documents
      - Docs: https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/
-     - 
+     - Studio: https://formrecognizer.appliedai.azure.com/
+     -
 
   - __Azure Cognitive Search__: Build semanticly enriched, searchable document databases
     - Docs: https://docs.microsoft.com/en-us/azure/search/
