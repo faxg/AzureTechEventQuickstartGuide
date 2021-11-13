@@ -40,16 +40,21 @@ Great, you have a new Microsoft M 365 account now.
 
 - Now, without closing the tab, navigate to: 
 https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab=pivot%3aoverviewtab
+
 ![Free Trial](img/office365_free_trial.png)
 
 - You need to provide a valid phone number to receive the code: 
+
 ![Provide phone number](img/office365_phone.png)
+
 - At this point, we are able to define our tenant name the first Office 365 (Admin) account 
+
 ![Domain name](img/office365_admin_account.png)
 
 
 
- Now, your office 365 tenant is ready to be used! 
+Now, your office 365 tenant is ready to be used! 
+
 ![Free Trial Completed](img/office365_free_trial_completed.png)
 
 
@@ -57,19 +62,25 @@ https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab
 - Now you can create a **GitHub account** - **using the admin account you just created**. 
 
 - Click on the Azure Pass link nad great the github account 
+
 ![Create GitHub account with Admin](img/github_create_account.png)
 
 - You need to verify yourself accessing the email of ADMIN and adding the code. 
+
 ![Verify GitHub account](img/github_launch_code.png)
 
 - Go to https://office.com and sign in with the admin account you create before and open Outlook 
+
 ![Office 365 open Outlook ](img/office365_open_outlook.png)
  
  - Click on **Skip Personalization** 
+
 ![Github skip personalization ](img/github_skip_personalization.png)
 
  - Now, Login in the previous Tab using Github Account
+ 
  ![Github auth ](img/github_authorize.png)
+ 
  ![Github consent ](img/github_consent.png)
 
 
@@ -80,15 +91,19 @@ https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e5?activetab
    ## [https://azcheck.in/doh211113](https://azcheck.in/doh211113)
 
  - Click now on __Get on board to Azure__! 
+  
   ![Azure Pass Get Code](img/azure_pass_on_board.png)
 
  - Click on __Start__ and then Confirm the Microsoft Account 
+   
    ![Azure Pass Redeem](img/azure_pass_redeem.png)
 
  - Validate the Azure Pass code..  
+  
   ![Azure Pass Redeem 2](img/azure_pass_redeem2.png)
 
  - Done! 
+  
   ![Azure Pass Redeem 3](img/azure_pass_redeem3.png)
 
  
