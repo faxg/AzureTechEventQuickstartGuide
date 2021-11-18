@@ -1,6 +1,6 @@
-# MAKEathon 2021 Azure Quickstart Guide
+# HSLU 2022 DevSecOps and Azure Quickstart Guide
 
-Welcome to **MAKEathon 2021 @ FHNW**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
+Welcome to the ** DevSecOps Workshop @ HSLU**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
 
 
 If you have any questions, please ping us on the __Microsoft Teams__ channel, and we'll try to help you asap.
@@ -12,9 +12,14 @@ If you have any questions, please ping us on the __Microsoft Teams__ channel, an
 
 
 ## Event Overview
-- Event page: https://www.fhnw.ch/plattformen/makeathon/
-- Schedule: https://www.fhnw.ch/plattformen/makeathon/schedule/
-- Challenges: https://www.fhnw.ch/plattformen/makeathon/challenges/
+- Event page: 
+- Schedule: 
+- Challenges: 
+
+## Your Microsoft contacts
+- 
+- 
+- 
 
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
@@ -41,7 +46,7 @@ These "Azure Passes" come in the form of __promo codes__ and need to be redeemed
 
 __Important__: You only need ONE per team.
 
-* Go to: __https://azcheck.in/fhn211105__
+* Go to: __https://aka.ms/HSLUDevSecOps/AzurePasses__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
@@ -68,7 +73,7 @@ __Important__: You only need ONE per team.
 
 
 - Azure Developer Guide (PDF, 140 pages): 
-https://aka.ms/MAKEathon2021/Guide
+https://aka.ms/HSLUDevSecOps/Guide
 
 
 
@@ -179,11 +184,6 @@ These are APIs and Cloud tools you can use for building intelligent aplications.
 
 
 
-TODO: 
-- How to invite others to your RG ?
-- Data pre-prcessing (Azure ML or Data Factory)
-- Visualization with Power BI
-- Storage accounts / Blob container public access - Generate SAS
 
 
 
