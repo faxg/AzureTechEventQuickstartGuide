@@ -15,15 +15,20 @@ Welcome to the **MAS+ Workshop 2021 at ETH Zurich**. Here you'll find informatio
 - Challenges: 
 
 ## Prepare your Bonsai Workspace in the Microsoft Azure Cloud
-If you want to get the best Developer experience, you'll need to following:
-- GitHub account (https://github.com)
-- Microsoft Azure account (https://portal.azure.com) 
+You will need a Microsoft Azure account (Trial would be enough).
+Please prepare the following steps __before__ the workshop:
+- **https://docs.microsoft.com/en-us/bonsai/guides/account-setup**
+- After that, you should be able to access the Bonsai Workspace at: (https://preview.bons.ai/)
+
 
 Never used Azure before?
 We recommend: https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
 
 __Hint__: 
-If English is not your first language, try changing `/en-us/` to `/de-de/` (for example). Works for most `*.microsoft.com` pages, including docs and learn tutorials.
+If English is not your first language, try changing the language code in URLS - `/en-us/` to `/de-de/` (for example). 
+Works for most `*.microsoft.com` pages, including docs and learn tutorials.
+If you omit the language segment, it will use your browser default language.
+
 
 
 
@@ -31,9 +36,10 @@ If English is not your first language, try changing `/en-us/` to `/de-de/` (for 
 
 ## Essential Links
 
-- Microsoft A.I. Business School
-- Learning Path: A.I. for
-- Microsoft "Autonomous Systems": 
+- Microsoft A.I. Business School: https://www.microsoft.com/en-us/ai/ai-business-school 
+- Learning Path: Define an A.I. Business Strategy : https://docs.microsoft.com/en-us/learn/paths/ai-strategy-for-business-value/
+- Microsoft "Autonomous Systems": https://www.microsoft.com/en-us/ai/autonomous-systems
+- Microsoft "Project Moab" Tutorial Page: http://aka.ms/moab
 
 
 - Azure Web Portal:  https://portal.azure.com
