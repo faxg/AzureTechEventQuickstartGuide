@@ -10,9 +10,10 @@ Welcome to the **MAS+ Workshop 2021 at ETH Zurich**. Here you'll find informatio
 
 
 ## Event Overview
-- Event page: 
-- Schedule: 
-- Challenges: 
+- Event page: https://mtec.ethz.ch/continuing-education/masplus-workshops-talks/mas-plus-workshops.html
+- Workshop Details: 27.11.2021 | on-​site 09.00–16.00 | HG F 33.1 & HG F 33.3
+(Microsoft will deliver 3x hands on session using Reinforcement Learning / on-site in the morning, remote after lunch)
+
 
 ## Prepare your Bonsai Workspace in the Microsoft Azure Cloud
 You will need a Microsoft Azure account (Trial would be enough).
