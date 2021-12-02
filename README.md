@@ -1,20 +1,23 @@
-# MAKEathon 2021 Azure Quickstart Guide
+# Bison Innovation Days - 2021 Azure Quickstart Guide
 
-Welcome to **MAKEathon 2021 @ FHNW**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
+Welcome to **Bison Innovation Days 2021**. 
+Here you'll find information on how to get started with Microsoft Azure Cloud to work on your ideas.
+We selected and curated links that we think may be most helpful for your topics and industry.
 
 
-If you have any questions, please ping us on the __Microsoft Teams__ channel, and we'll try to help you asap.
+Please connect with your Developer Audience Lead in LinkedIn:
+https://www.linkedin.com/in/fgeorg/
 
 
-**Please note:** Consider registering to our __SkillForward 2021__ campaign - completely free, instructor-led virtual trainings plus Certification exam voucher for *students and teachers* : https://aka.ms/SkillForward21
+
 
 
 
 
 ## Event Overview
-- Event page: https://www.fhnw.ch/plattformen/makeathon/
-- Schedule: https://www.fhnw.ch/plattformen/makeathon/schedule/
-- Challenges: https://www.fhnw.ch/plattformen/makeathon/challenges/
+- Event page: https://www.bison-group.com/innovation-days 
+- Where: https://www.google.com/maps/place/Bison+Schweiz+AG/@47.167883,8.0958523,17z/data=!3m1!4b1!4m5!3m4!1s0x47901ff274935b3d:0x141326b4e886ae2e!8m2!3d47.167883!4d8.098041?hl=de
+
 
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
@@ -39,9 +42,9 @@ If English is not your first language, try changing `/en-us/` to `/de-de/` (for 
 We provide __100$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
 These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get a "Azure Sponsored Subscription" in your account.
 
-__Important__: You only need ONE per team.
+__Important__: You only need ONE per team, then give your other team members access to your sponsored subscription / resource group. 
 
-* Go to: __https://azcheck.in/fhn211105__
+* Go to: __https://azcheck.in/bid211203__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
@@ -68,7 +71,8 @@ __Important__: You only need ONE per team.
 
 
 - Azure Developer Guide (PDF, 140 pages): 
-https://aka.ms/MAKEathon2021/Guide
+https://azure.microsoft.com/en-us/campaigns/developer-guide/
+
 
 
 
@@ -77,12 +81,10 @@ https://aka.ms/MAKEathon2021/Guide
 
 
 - Microsoft Certifications: https://docs.microsoft.com/en-us/learn/certifications/
-
     - https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
     - https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/
     - https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/
     - https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/
-
 
 - StackOverflow: https://stackoverflow.com/questions/tagged/azure
 
@@ -121,7 +123,7 @@ Azure Database services:
 https://docs.microsoft.com/en-us/azure/?product=databases
 
 
-- __Azure Blob storage__: Store unstructured objects, e.g. images, documents etc):
+- __Azure Blob storage__: Store unstructured objects, e.g. images, documents ...:
 https://docs.microsoft.com/en-us/azure/storage/blobs/
 
 - __Azure Cosmos DB__: Fast NoSQL database, multiple APIs e.g. Gremlin (Graph), SQL, MongoDB, Cassandra, Table Storage
@@ -131,27 +133,27 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/
 
 
 
-
 ### Machine Learning and Data Science
 Solutions for Advanced Data Analysis with Python, MLOps etc.
 
 - __Azure Machine Learning__: Train, test deploy your Machine Learning Models
-- ML Studio: https://ml.azue.com
+- ML Studio: https://ml.azure.com
 - Docs: https://docs.microsoft.com/en-us/azure/machine-learning/
 
 - __Azure Databricks__: Unified Analytics Platform.
 https://docs.microsoft.com/en-us/azure/databricks/
 
 
-- 
 ### Cognitive Services and A.I.
 These are APIs and Cloud tools you can use for building intelligent aplications.
 
 - __Azure Applied AI Services__ 
-  - Form Recognizer: Extract text from forms and documents
+  - __Form Recognizer__: Extract text from forms and documents
      - Docs: https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/
+     - Studio: https://formrecognizer.appliedai.azure.com/studio
+     
 
-  - Azure Cognitive Search: Build semanticly enriched, searchable document databases
+  - __Azure Cognitive Search__: Build semanticly enriched, searchable document databases
     - Docs: https://docs.microsoft.com/en-us/azure/search/
 
 
@@ -169,22 +171,11 @@ These are APIs and Cloud tools you can use for building intelligent aplications.
    
 
   - __Speech Service__: Speech-to-Text / Text-to-Speech, Translation, Transcription, Voice Assistants, Intent recognition...
-- Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service
+    - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service
     - Speech Studio : https://speech.microsoft.com/
 
-
-
-- __Azure Maps__ : Maps, Search, Routing, Traffic, Weather, Time Zones, Geolocation, Geofencing, Map Data, Creator, and Spatial Operations
+  - __Azure Maps__ : Maps, Search, Routing, Traffic, Weather, Time Zones, Geolocation, Geofencing, Map Data, Creator, and Spatial Operations
   - Docs: https://docs.microsoft.com/en-us/azure/azure-maps/
-
-
-
-TODO: 
-- How to invite others to your RG ?
-- Data pre-prcessing (Azure ML or Data Factory)
-- Visualization with Power BI
-- Storage accounts / Blob container public access - Generate SAS
-
 
 
 ###  Azure SDKs and REST API
@@ -196,3 +187,5 @@ Most Azure Servies have SDK support for common languages (Python, JavaScript, C#
   - SDK API Browser: https://docs.microsoft.com/en-us/javascript/api/?view=azure-node-latest
 
 
+### Missing something or found an issue?
+Submit a pull request or ping me at https://www.linkedin.com/in/fgeorg/
