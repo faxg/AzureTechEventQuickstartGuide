@@ -1,14 +1,6 @@
-# HSLU 2022 DevSecOps and Azure Quickstart Guide
+# Swiss Tech Event - Azure Quickstart Guide
 
-Welcome to the ** DevSecOps Workshop @ HSLU**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
-
-
-If you have any questions, please ping us on the __Microsoft Teams__ channel, and we'll try to help you asap.
-
-
-**Please note:** Consider registering to our __SkillForward 2021__ campaign - completely free, instructor-led virtual trainings plus Certification exam voucher for *students and teachers* : https://aka.ms/SkillForward21
-
-
+This is a template repository, see the different __branches__ for the actual event-specific pages.
 
 
 ## Event Overview
