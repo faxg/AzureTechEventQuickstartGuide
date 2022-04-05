@@ -1,6 +1,5 @@
-# Swiss Tech Event - Azure Quickstart Guide
+# ABB Electrification Challenge 2022 - Azure Quickstart Guide
 
-This is a template repository, see the different __branches__ for the actual event-specific pages.
 
 
 ## Event Overview
@@ -21,8 +20,6 @@ If you want to get the best Developer experience, you'll need to following:
 You can also log-in to Azure using your existing __GitHub account__
 
 
-It's best to use your private e-mail for the accounts, e.g. not your work or university e-mail, as this could lead to some problems with free Azure Credits etc.
-
 Never used Azure before?
 We recommend: https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
 
@@ -33,12 +30,12 @@ If English is not your first language, try changing `/en-us/` to `/de-de/` (for 
 
 
 ## Get Free Azure Credits (Azure Passes)
-We provide __100$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
-These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get a "Azure Sponsored Subscription" in your account.
+We provide __150$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
+These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get an __Azure Sponsored Subscription__ in your account.
 
-__Important__: You only need ONE per team.
+__Important__: You only need ONE per team. If needed, you can give permissions to your resources to other users of your team.
 
-* Go to: __https://aka.ms/HSLUDevSecOps/AzurePasses__
+* Go to: __https://aka.ms/ABBELChallenge2022/AzurePasses__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
@@ -54,20 +51,12 @@ __Important__: You only need ONE per team.
 
 
 
-	
-
 ## Essential Links
 
 - Azure Web Portal:  https://portal.azure.com
 - Microsoft Docs (tech docs): https://docs.microsoft.com/en-us/
 - Microsoft Learn (Tutorials etc): https://docs.microsoft.com/en-us/learn/
 - Azure Charts (with links to docs): https://azurecharts.com/links
-
-
-- Azure Developer Guide (PDF, 140 pages): 
-https://aka.ms/HSLUDevSecOps/Guide
-
-
 
 - Channel9 (Video and live events): https://channel9.msdn.com/
 - Microsoft Developer @ YouTube: https://www.youtube.com/c/MicrosoftDeveloper
@@ -126,7 +115,9 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/
 
 
 
-
+### Autonomous Systems
+Microsoft Autonomous Systems
+Microsoft Bonsai (Low-Code Deep Reinforcement Learning)
 
 
 ### Machine Learning and Data Science
@@ -140,7 +131,7 @@ Solutions for Advanced Data Analysis with Python, MLOps etc.
 https://docs.microsoft.com/en-us/azure/databricks/
 
 
-- 
+
 ### Cognitive Services and A.I.
 These are APIs and Cloud tools you can use for building intelligent aplications.
 
