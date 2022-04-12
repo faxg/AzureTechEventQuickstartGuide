@@ -8,11 +8,10 @@
   - https://www.collaborateandcommercialize.com/smartbuildings
   - https://www.collaborateandcommercialize.com/smartpower
   - https://www.collaborateandcommercialize.com/distributionsolutions
-  -
+  
 ## Your Microsoft contacts
 - Florian Georg (https://www.linkedin.com/in/fgeorg/)
-- 
-- 
+
 
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
@@ -51,6 +50,9 @@ __Important__: You only need ONE per team. If needed, you can give permissions t
 
 ![](img/sponsored_subscription.jpg)
 
+
+## Azure Heroes (Digital NFTs)
+See our website how to nominate yourself (or others): https://www.microsoft.com/skills/azureheroes
 
 
 ## Essential Links
@@ -118,8 +120,9 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/
 
 
 ### Autonomous Systems
-Microsoft Autonomous Systems
-Microsoft Bonsai (Low-Code Deep Reinforcement Learning)
+- Microsoft Autonomous Systems: https://www.microsoft.com/en-us/ai/autonomous-systems
+- Microsoft Bonsai (Low-Code Deep Reinforcement Learning): https://docs.microsoft.com/en-us/bonsai/
+- Coursera Course "Machine Teaching AI": https://www.coursera.org/learn/machine-teaching-ai
 
 
 ### Machine Learning and Data Science
