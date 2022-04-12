@@ -3,12 +3,14 @@
 
 
 ## Event Overview
-- Event page: 
-- Schedule: 
+- Event page: https://www.collaborateandcommercialize.com/
 - Challenges: 
-
+  - https://www.collaborateandcommercialize.com/smartbuildings
+  - https://www.collaborateandcommercialize.com/smartpower
+  - https://www.collaborateandcommercialize.com/distributionsolutions
+  -
 ## Your Microsoft contacts
-- 
+- Florian Georg (https://www.linkedin.com/in/fgeorg/)
 - 
 - 
 
@@ -30,7 +32,7 @@ If English is not your first language, try changing `/en-us/` to `/de-de/` (for 
 
 
 ## Get Free Azure Credits (Azure Passes)
-We provide __150$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
+We provide __200$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
 These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get an __Azure Sponsored Subscription__ in your account.
 
 __Important__: You only need ONE per team. If needed, you can give permissions to your resources to other users of your team.
