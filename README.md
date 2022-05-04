@@ -1,15 +1,19 @@
-# Swiss Tech Event - Azure Quickstart Guide
+#  DayONE Patient-centric Health Hack 2022 - Azure Quickstart Guide
 
-This is a template repository, see the different __branches__ for the actual event-specific pages.
+![](https://www.dayone.swiss/wp-content/uploads/2020/07/DayOne_logo-01.svg)
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg)
 
 
 ## Event Overview
-- Event page: 
-- Schedule: 
-- Challenges: 
+- Event page: https://www.dayone.swiss/community/dayone-events/health-hack/
+- Schedule: May 4th - May 19th
+![](https://www.dayone.swiss/wp-content/uploads/2022/04/HealthHack_web_slide_timeline-1.png)
+- Challenges: TBD
 
 ## Your Microsoft contacts
-- 
+- Florian Georg (https://www.linkedin.com/in/fgeorg/)
 - 
 - 
 
@@ -19,9 +23,6 @@ If you want to get the best Developer experience, you'll need to following:
 - Microsoft Azure account (https://portal.azure.com) 
 
 You can also log-in to Azure using your existing __GitHub account__
-
-
-It's best to use your private e-mail for the accounts, e.g. not your work or university e-mail, as this could lead to some problems with free Azure Credits etc.
 
 Never used Azure before?
 We recommend: https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
@@ -33,12 +34,12 @@ If English is not your first language, try changing `/en-us/` to `/de-de/` (for 
 
 
 ## Get Free Azure Credits (Azure Passes)
-We provide __100$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
+We provide __200$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
 These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get a "Azure Sponsored Subscription" in your account.
 
 __Important__: You only need ONE per team.
 
-* Go to: __https://aka.ms/HSLUDevSecOps/AzurePasses__
+* Go to: __https://aka.ms/HealthHack2022/AzurePasses__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
