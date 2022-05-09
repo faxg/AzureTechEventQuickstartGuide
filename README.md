@@ -8,14 +8,14 @@
 
 ## Event Overview
 - Event page: https://www.dayone.swiss/community/dayone-events/health-hack/
-- Schedule: May 4th - May 19th
+- Schedule for Hackathon Challenges: May 4th - May 19th
 ![](https://www.dayone.swiss/wp-content/uploads/2022/04/HealthHack_web_slide_timeline-1.png)
-- Challenges: TBD
+- Challenges: see below
 
 ## Your Microsoft contacts
 - Florian Georg (https://www.linkedin.com/in/fgeorg/)
-- 
-- 
+
+
 
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
@@ -25,15 +25,21 @@ If you want to get the best Developer experience, you'll need to following:
 You can also log-in to Azure using your existing __GitHub account__
 
 Never used Azure before?
-We recommend: https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
+We recommend: 
+- https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
 
 __Hint__: 
 If English is not your first language, try changing `/en-us/` to `/de-de/` (for example). Works for most `*.microsoft.com` pages, including docs and learn tutorials.
 
 
+## Microsoft A.I. Business School for HealthCare
+![](https://docs.microsoft.com/en-us/learn/achievements/ai-business-school-healthcare.svg)
+Free online learning path for everybody (not technical):  
+https://docs.microsoft.com/en-us/learn/paths/ai-business-school-healthcare/
 
 
-## Get Free Azure Credits (Azure Passes)
+
+## Free Azure Credits for your prototype
 We provide __200$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
 These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get a "Azure Sponsored Subscription" in your account.
 
@@ -57,44 +63,34 @@ __Important__: You only need ONE per team.
 
 	
 
-## Essential Links
+## Essential Azure Links
 
 - Azure Web Portal:  https://portal.azure.com
 - Microsoft Docs (tech docs): https://docs.microsoft.com/en-us/
 - Microsoft Learn (Tutorials etc): https://docs.microsoft.com/en-us/learn/
 - Azure Charts (with links to docs): https://azurecharts.com/links
-
-
-- Azure Developer Guide (PDF, 140 pages): 
-https://aka.ms/HSLUDevSecOps/Guide
-
-
-
 - Channel9 (Video and live events): https://channel9.msdn.com/
 - Microsoft Developer @ YouTube: https://www.youtube.com/c/MicrosoftDeveloper
-
-
-- Microsoft Certifications: https://docs.microsoft.com/en-us/learn/certifications/
-
-    - https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
-    - https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/
-    - https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/
-    - https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/
-
-
 - StackOverflow: https://stackoverflow.com/questions/tagged/azure
 
 
 
-## Choose your Azure Services
-Depending on what technology and frameworks you want to use, here're some recommendations to get started.
-
-__Documentation Overview__ (all services): https://docs.microsoft.com/en-us/azure/?product=featured
-
+## Services for Healthcare and HealthHack 2022
+- For a list of "real-world" cloud architectures, see
+https://docs.microsoft.com/en-us/azure/architecture/browse/?terms=healthcare
 
 
+### Azure Health Data Services
+- Unify and manage health data and protected health information (PHI) in the cloud: https://azure.microsoft.com/en-us/services/health-data-services/#overview
+  - Use if you need to support standards like __HL7 FHIR__, __DICOM__ or connect with __IoT__ devices
+- Demo Video (sign in with your Microsoft account): https://msit.microsoftstream.com/embed/channel/7b393472-2a97-47f0-8d53-4b605c68f74e
+- FHIR Server Samples: https://github.com/microsoft/fhir-server-samples
+- Generate synthetic patient health data with __Synthea__ (Open Source):
+  - https://synthetichealth.github.io/synthea/
+  - https://github.com/synthetichealth/synthea
 
-### Web Apps and APIs
+
+### Azure Compute Services
 - __Azure App Service__:  Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure.
   - Docs: https://docs.microsoft.com/en-us/azure/app-service/
   - Learn module: https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/
@@ -108,19 +104,12 @@ __Documentation Overview__ (all services): https://docs.microsoft.com/en-us/azur
   - https://docs.microsoft.com/en-us/azure/azure-functions/
 
 
-
-**Note:** we recommend using __GitHub Actions__ as CI/CD pipeline.
-Learn more here: 
-https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/
-
-
-### Databases and Storage
-Azure Database services: 
-https://docs.microsoft.com/en-us/azure/?product=databases
-
+### Data + Analytics
+- __Azure Database services (Overview)__: 
+  - https://docs.microsoft.com/en-us/azure/?product=databases
 
 - __Azure Blob storage__: Store unstructured objects, e.g. images, documents etc):
-https://docs.microsoft.com/en-us/azure/storage/blobs/
+  - https://docs.microsoft.com/en-us/azure/storage/blobs/
 
 - __Azure Cosmos DB__: Fast NoSQL database, multiple APIs e.g. Gremlin (Graph), SQL, MongoDB, Cassandra, Table Storage
   -  https://docs.microsoft.com/en-us/azure/cosmos-db/
@@ -129,53 +118,42 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/
 
 
 
-
-### Machine Learning and Data Science
-Solutions for Advanced Data Analysis with Python, MLOps etc.
-
+### AI + Machine Learning
 - __Azure Machine Learning__: Train, test deploy your Machine Learning Models
-- ML Studio: https://ml.azue.com
-- Docs: https://docs.microsoft.com/en-us/azure/machine-learning/
+  - ML Studio: https://ml.azue.com
+  - Docs: https://docs.microsoft.com/en-us/azure/machine-learning/
 
-- __Azure Databricks__: Unified Analytics Platform.
-https://docs.microsoft.com/en-us/azure/databricks/
-
-
-- 
-### Cognitive Services and A.I.
-These are APIs and Cloud tools you can use for building intelligent aplications.
 
 - __Azure Applied AI Services__ 
   - Form Recognizer: Extract text from forms and documents
      - Docs: https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/
-
   - Azure Cognitive Search: Build semanticly enriched, searchable document databases
     - Docs: https://docs.microsoft.com/en-us/azure/search/
-
-
+  
 
 - __Azure Cognitive Services__ Vision, Language, Speech 
   - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/
 
   - __Computer Vision__: OCR, Object detection, Image classification, Spatial Analysis ...
     - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
-    
 
+    
   - __Language Service__: Text Analytics / Natural Language Processing, Text Classification, Translation, Language detection ...
     - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/
     - Language Studio: https://language.azure.com/
    
-
   - __Speech Service__: Speech-to-Text / Text-to-Speech, Translation, Transcription, Voice Assistants, Intent recognition...
-- Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service
+    - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service
     - Speech Studio : https://speech.microsoft.com/
 
+  - __Azure Maps__ : Maps, Search, Routing, Traffic, Weather, Time Zones, Geolocation, Geofencing, Map Data, Creator, and Spatial Operations
+    - Docs: https://docs.microsoft.com/en-us/azure/azure-maps/
 
-
-- __Azure Maps__ : Maps, Search, Routing, Traffic, Weather, Time Zones, Geolocation, Geofencing, Map Data, Creator, and Spatial Operations
-  - Docs: https://docs.microsoft.com/en-us/azure/azure-maps/
-
-
+### IoT and Mixed Reality
+  - __Mixed reality for Healthcare__: 
+    - Demo: https://www.microsoft.com/en-us/hololens/industry-healthcare
+  - __Hololens Developer Resources__:
+    - https://docs.microsoft.com/en-us/windows/mixed-reality/
 
 
 
@@ -187,5 +165,68 @@ Most Azure Servies have SDK support for common languages (Python, JavaScript, C#
   - SDK API Browser: https://docs.microsoft.com/en-us/python/api/?view=azure-python
 - JavaScript / Node
   - SDK API Browser: https://docs.microsoft.com/en-us/javascript/api/?view=azure-node-latest
+
+
+
+
+
+
+
+# Health Hack - Patient Challenges 2022
+Here will post some inspiration and iseas on how to best use.
+___Work in progress.___
+
+
+### Simplify & regain your life
+TBD
+
+
+### My Battery Level
+TBD
+
+### Prevent and predict
+TBD
+
+### Dr Google
+TBD
+
+### Diabetes simulator
+TBD
+
+### Accessing my medical history
+TBD
+
+### Rare disease check
+TBD
+
+### I see you, I hear you
+TBD
+
+### I understand you
+TBD
+
+
+
+
+
+
+
+## Choose your Azure Services
+Depending on what technology and frameworks you want to use, here're some recommendations to get started.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
