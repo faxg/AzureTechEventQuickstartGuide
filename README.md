@@ -1,9 +1,13 @@
 # Datathon 2022 - Azure & Microsoft Challenge Quickstart Guide
 
+
+s
 <img src="https://datadays.ch/assets/images/image02.png?v=11b9fbb0" width="200">
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" width="300">
 
 
 ## Your Microsoft contacts
