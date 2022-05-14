@@ -1,7 +1,7 @@
 # Datathon 2022 - Azure & Microsoft Challenge Quickstart Guide
 
 
-s
+
 <img src="https://datadays.ch/assets/images/image02.png?v=11b9fbb0" width="200">
 
 
