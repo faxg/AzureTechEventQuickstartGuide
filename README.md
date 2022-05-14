@@ -65,13 +65,15 @@ __Important__: You only need ONE per team.
  
 
 
-## Tutorial 
+## Tutorials and Workshops 
 Using Text Analytics for Health to Get Meaningful Insights from a Corpus of COVID Scientific Papers
 
-Article: (https://towardsdatascience.com/analyzing-covid-medical-papers-with-azure-machine-learning-and-text-analytics-for-health-c87ab621a3d0)
+- Article: (https://towardsdatascience.com/analyzing-covid-medical-papers-with-azure-machine-learning-and-text-analytics-for-health-c87ab621a3d0)
 
-Video: https://www.youtube.com/watch?v=B_Z4qnYtnoU
+- Video: https://www.youtube.com/watch?v=B_Z4qnYtnoU
 
+
+See others in our repo: https://github.com/microsoft/workshop-library#readme
 
 
 
