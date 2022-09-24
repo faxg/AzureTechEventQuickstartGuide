@@ -1,7 +1,7 @@
 # MAKEathon 2022 - Azure Quickstart Guide
 
 
-Welcome to the Quickstart guide for 
+Welcome to the Quickstart guide for __MAKEATHON 2022__ at FHNW.
 
 ## Event Overview
 - Event page: https://www.makeathonfhnw.ch/
