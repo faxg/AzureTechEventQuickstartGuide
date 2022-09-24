@@ -1,7 +1,7 @@
-# Swiss Tech Event - Azure Quickstart Guide
+# MAKEathon 2022 - Azure Quickstart Guide
 
-This is a template repository, see the different __branches__ for the actual event-specific pages.
 
+Welcome to the Quickstart guide for 
 
 ## Event Overview
 - Event page: https://www.makeathonfhnw.ch/
@@ -33,14 +33,10 @@ If English is not your first language, try changing `/en-us/` to `/de-de/` (for 
 
 
 ## Get Free Azure Credits (Azure Passes)
-We provide __100$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
+We provide __150$ / 90-days__ free credits, so that you can use Azure for free on your prototype. 
 These "Azure Passes" come in the form of __promo codes__ and need to be redeemed on a special website. Afterwards you should get a _"Azure Sponsored Subscription"_ in your account.
 
-
-
-
-
-* Go to: __https://aka.ms/HSLUDevSecOps/AzurePasses__
+* Go to: __https://aka.ms/MAKEathon2022/AzureCredits__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
@@ -56,7 +52,7 @@ These "Azure Passes" come in the form of __promo codes__ and need to be redeemed
 
 
 ### How to use the "Sponsored Subscription" with a team
-You only usually need only one Sponsored Subscription voucher per team. The owner of the subscription can grant access rights to other users, e.g. on scoped to a single resource group.
+You only usually need only one sponsored subscription per team. The owner of the subscription can grant access rights to other users, e.g. on scoped to a single resource group.
 
 See this Tutorial for more info: [ Grant a user access to Azure resources using the Azure portal](https://learn.microsoft.com/en-us/azure/role-based-access-control/quickstart-assign-role-user-portal)
 
@@ -87,7 +83,7 @@ All our student programs, free learning resources and global student community i
 
 
 
-# Microsoft Professional Certifications
+## Microsoft Professional Certifications
 Get a professional certificate from and put it onto your CV.
 __Hint:__ You can self-learn for free at your own pace - and also take the exam from home via Pearson Vue.
 Learn more about our options for free certifications for students: 
@@ -105,7 +101,7 @@ https://msftstudentcert.cloudreadyskills.com/
 
 
 
-## Choose your Azure Services
+## Azure Cloud Services
 Depending on what technology and frameworks you want to use, here're some recommendations to get started.
 
 __Documentation Overview__ (all services): https://docs.microsoft.com/en-us/azure/?product=featured
@@ -136,7 +132,9 @@ It uses Azure Functions for your API and "backend" to a static web frontend. Sup
 
 **Note:** we recommend using __GitHub Actions__ as CI/CD pipeline.
 Learn more here: 
-https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/
+- https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/
+- https://learn.microsoft.com/en-us/azure/developer/github/github-actions
+
 
 
 ### Databases and Storage
@@ -145,11 +143,13 @@ https://docs.microsoft.com/en-us/azure/?product=databases
 
 
 - __Azure Blob storage__: Store unstructured objects, e.g. images, documents etc):
-https://docs.microsoft.com/en-us/azure/storage/blobs/
+  - https://docs.microsoft.com/en-us/azure/storage/blobs/
 
 - __Azure Cosmos DB__: Fast NoSQL database, multiple APIs e.g. Gremlin (Graph), SQL, MongoDB, Cassandra, Table Storage
   -  https://docs.microsoft.com/en-us/azure/cosmos-db/
 
+- __Azure Database for PostgreSQL__: Relational database service based on the open-source Postgres database engine
+  - https://docs.microsoft.com/en-us/azure/postgresql/
 
 
 
@@ -162,8 +162,9 @@ Solutions for Advanced Data Analysis with Python, MLOps etc.
 - ML Studio: https://ml.azure.com
 - Docs: https://docs.microsoft.com/en-us/azure/machine-learning/
 
-- __Azure Databricks__: Unified Analytics Platform.
-https://docs.microsoft.com/en-us/azure/databricks/
+### Azure Databricks 
+Unified Analytics Platform. 
+- https://docs.microsoft.com/en-us/azure/databricks/
 
 
 ### Hugging Face on Azure
@@ -174,12 +175,14 @@ HuggingFace provides a great platform to train, use and finetune Transforder Mod
 - Hugging Face by Task: https://huggingface.co/tasks
 
 Use the Azure Integration for free while in Preview, from our Azure Marketplace:
-- (https://azuremarketplace.microsoft.com/en-us/marketplace/apps/huggingfaceinc1651727610968.huggingface?tab=Overview)[Hugging Face Endpoints on Azure (Preview)]
+- [Hugging Face Endpoints on Azure (Preview)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/huggingfaceinc1651727610968.huggingface?tab=Overview)
 
 
 
-### Cognitive Services and A.I.
+### Cognitive Services and Applied A.I. Services
 These are APIs and Cloud tools you can use for building intelligent aplications.
+
+
 
 - __Azure Applied AI Services__ 
   - Form Recognizer: Extract text from forms and documents
@@ -192,6 +195,11 @@ These are APIs and Cloud tools you can use for building intelligent aplications.
 
 - __Azure Cognitive Services__ Vision, Language, Speech 
   - __Overview__: https://docs.microsoft.com/en-us/azure/cognitive-services/
+
+  - __Open AI GPT-3__ (limited preview, need to apply first: https://aka.ms/oaiapply)
+    - Docs: https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview
+    - GPT-3 Studio: https://oai.azure.com/
+
 
   - __Computer Vision__: OCR, Object detection, Image classification, Spatial Analysis ...
     - Docs: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/
