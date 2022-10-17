@@ -1,13 +1,12 @@
-# ABB Electrification Challenge 2022 - Azure Quickstart Guide
+# ABB Energy Efficiency Startup Challenge 2022 - Azure Quickstart Guide
 
 
 
 ## Event Overview
 - Event page: https://www.collaborateandcommercialize.com/
 - Challenges: 
-  - https://www.collaborateandcommercialize.com/smartbuildings
-  - https://www.collaborateandcommercialize.com/smartpower
-  - https://www.collaborateandcommercialize.com/distributionsolutions
+  - https://www.collaborateandcommercialize.com/abbee2022-else
+  - https://www.collaborateandcommercialize.com/abbee2022-mose
   
 ## Your Microsoft contacts
 - Florian Georg (https://www.linkedin.com/in/fgeorg/)
@@ -21,8 +20,13 @@ If you want to get the best Developer experience, you'll need to following:
 You can also log-in to Azure using your existing __GitHub account__
 
 
-Never used Azure before?
+### Never used Azure before?
 We recommend: https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
+
+### Used other cloud platforms before?
+- Azure for AWS Professionals: https://learn.microsoft.com/en-us/azure/architecture/aws-professional/
+- Azure for GCP Professionals: https://learn.microsoft.com/en-us/azure/architecture/gcp-professional/
+
 
 __Hint__: 
 If English is not your first language, try changing `/en-us/` to `/de-de/` (for example). Works for most `*.microsoft.com` pages, including docs and learn tutorials.
@@ -36,7 +40,7 @@ These "Azure Passes" come in the form of __promo codes__ and need to be redeemed
 
 __Important__: You only need ONE per team. If needed, you can give permissions to your resources to other users of your team.
 
-* Go to: __https://aka.ms/ABBELChallenge2022/AzurePasses__
+* Go to: __https://azcheck.in/abb221015__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
@@ -51,8 +55,6 @@ __Important__: You only need ONE per team. If needed, you can give permissions t
 ![](img/sponsored_subscription.jpg)
 
 
-## Azure Heroes (Digital NFTs)
-See our website how to nominate yourself (or others): https://www.microsoft.com/skills/azureheroes
 
 
 ## Essential Links
