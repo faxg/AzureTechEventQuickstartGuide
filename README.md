@@ -79,6 +79,12 @@ __Important__: You only need ONE per team. If needed, you can give permissions t
 - StackOverflow: https://stackoverflow.com/questions/tagged/azure
 
 
+## Autonomous Systems and AI in Energy
+Two areas for Microsoft solutions you might have a deeper look at:
+- Autonomous Systems: https://www.microsoft.com/en-us/ai/autonomous-systems 
+- AI in Energy: https://www.microsoft.com/en-us/ai/industry/ai-in-energy 
+
+
 
 ## Choose your Azure Services
 Depending on what technology and frameworks you want to use, here're some recommendations to get started.
