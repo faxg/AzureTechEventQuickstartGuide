@@ -9,7 +9,11 @@
   - https://www.collaborateandcommercialize.com/abbee2022-mose
   
 ## Your Microsoft contacts
+- Andrew Reid (https://www.linkedin.com/in/andrewfreid/)
+- Dennis von Onselen (https://www.linkedin.com/in/dennisvanonselen/)
 - Florian Georg (https://www.linkedin.com/in/fgeorg/)
+- Giovanna Dughera (https://www.linkedin.com/in/giovanna-dughera/)
+- Stefan Fischer (https://www.linkedin.com/in/stefan-fischer/)
 
 
 ## Getting Started with Microsoft Azure
