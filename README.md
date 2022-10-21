@@ -1,6 +1,6 @@
-# Bison Innovation Days - 2021 Azure Quickstart Guide
+# Bison Innovation Days - 2022 Azure Quickstart Guide
 
-Welcome to **Bison Innovation Days 2021**. 
+Welcome to **Bison Innovation Days 2022**. 
 Here you'll find information on how to get started with Microsoft Azure Cloud to work on your ideas.
 We selected and curated links that we think may be most helpful for your topics and industry.
 
@@ -44,7 +44,7 @@ These "Azure Passes" come in the form of __promo codes__ and need to be redeemed
 
 __Important__: You only need ONE per team, then give your other team members access to your sponsored subscription / resource group. 
 
-* Go to: __https://azcheck.in/bid211203__
+* Go to: __https://aka.ms/BisonInnovationDays2022/credits__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
