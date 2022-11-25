@@ -1,4 +1,4 @@
-# ABB Electrification Challenge 2022 - Azure Quickstart Guide
+# ABB Analytical Measurement Challenge 2022 - Azure Quickstart Guide
 
 
 
@@ -36,7 +36,7 @@ These "Azure Passes" come in the form of __promo codes__ and need to be redeemed
 
 __Important__: You only need ONE per team. If needed, you can give permissions to your resources to other users of your team.
 
-* Go to: __https://aka.ms/ABBELChallenge2022/AzurePasses__
+* Go to: __https://aka.ms/ABB/AMChallenge2022/AzurePasses__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
