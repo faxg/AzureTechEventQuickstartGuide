@@ -9,17 +9,15 @@ If you have any questions, please ping us on the __Microsoft Teams__ channel, an
 **Please note:** Consider registering to our __SkillForward 2021__ campaign - completely free, instructor-led virtual trainings plus Certification exam voucher for *students and teachers* : https://aka.ms/SkillForward21
 
 
-
-
 ## Event Overview
 - Event page: 
-- Schedule: 
-- Challenges: 
+- Schedule: 17.12.2022 / 23.12.2022 
+- Challenges: Get the first practice with Azure & M365, learn technologies and gouvernance methodes to secure cloud ressources.
 
 ## Your Microsoft contacts
-- 
-- 
-- 
+- Daniel von Büren
+- Patrick Fontana
+- Florian George
 
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
