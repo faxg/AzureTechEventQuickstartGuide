@@ -11,7 +11,7 @@ If you have any questions, please ping us on the __Microsoft Teams__ channel, an
 
 ## Event Overview
 - Event page: 
-- Schedule: 17.12.2022 / 23.12.2022 
+- Schedule: 13.01.2024 / 19.01.2024 
 - Challenges: Get the first practice with Azure & M365, learn technologies and gouvernance methodes to secure cloud ressources.
 
 ## Your Microsoft contacts
