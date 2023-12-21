@@ -1,4 +1,4 @@
-# HSLU 2022 DevSecOps and Azure Quickstart Guide
+# HSLU 2024 DevSecOps and Azure Quickstart Guide
 
 Welcome to the **DevSecOps Workshop @ HSLU**. Here you'll find information on how to get started with Microsoft Azure Cloud to work on the challenges.
 
