@@ -1,17 +1,15 @@
-# Swiss Tech Event - Azure Quickstart Guide
-
-This is a template repository, see the different __branches__ for the actual event-specific pages.
+# ETH Simulation Hackathon - Azure Quickstart Guide
 
 
 ## Event Overview
-- Event page: 
-- Schedule: 
-- Challenges: 
+- Schedule: March 1 - 3, 2024 
+- Challenges: (see discord)
+- Location: ETH Student Project House
+- Discord channel: https://discord.com/channels/1212470509602603070/1212476005411725363
+
 
 ## Your Microsoft contacts
-- 
-- 
-- 
+- [Florian Georg](https://www.linkedin.com/in/fgeorg/)
 
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
@@ -38,7 +36,7 @@ These "Azure Passes" come in the form of __promo codes__ and need to be redeemed
 
 __Important__: You only need ONE per team.
 
-* Go to: __https://aka.ms/HSLUDevSecOps/AzurePasses__
+* Go to: __https://aka.ms/ETHSimulationHackathon/AzurePasses__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
@@ -64,24 +62,16 @@ __Important__: You only need ONE per team.
 - Azure Charts (with links to docs): https://azurecharts.com/links
 
 
-- Azure Developer Guide (PDF, 140 pages): 
-https://aka.ms/HSLUDevSecOps/Guide
-
-
-
-- Channel9 (Video and live events): https://channel9.msdn.com/
+- Microsoft Mechanics @ Youtube: https://youtube.com/c/MicrosoftMechanicsSeries?sub_confirmation=1
 - Microsoft Developer @ YouTube: https://www.youtube.com/c/MicrosoftDeveloper
+- Channel9 (Video and live events): https://channel9.msdn.com/
 
 
 - Microsoft Certifications: https://docs.microsoft.com/en-us/learn/certifications/
-
     - https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
     - https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/
     - https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/
     - https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/
-
-
-- StackOverflow: https://stackoverflow.com/questions/tagged/azure
 
 
 
