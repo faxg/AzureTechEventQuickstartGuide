@@ -126,8 +126,8 @@ Solutions for Advanced Data Analysis with Python, MLOps etc.
 - ML Studio: https://ml.azue.com
 - Docs: https://docs.microsoft.com/en-us/azure/machine-learning/
 
-- __Azure Databricks__: Unified Analytics Platform.
-https://docs.microsoft.com/en-us/azure/databricks/
+- __Microsoft Fabric__: Microsoft Fabric is a unified platform that can meet your organization's data and analytics needs. 
+https://learn.microsoft.com/en-us/fabric/
 
 
 - 
@@ -135,10 +135,10 @@ https://docs.microsoft.com/en-us/azure/databricks/
 These are APIs and Cloud tools you can use for building intelligent aplications.
 
 - __Azure Applied AI Services__ 
-  - Form Recognizer: Extract text from forms and documents
+  - Azure AI Document Intelligence: Extract text from forms and documents
      - Docs: https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/
 
-  - Azure Cognitive Search: Build semanticly enriched, searchable document databases
+  - Azure AI Search: Build semanticly enriched, searchable document databases
     - Docs: https://docs.microsoft.com/en-us/azure/search/
 
 
