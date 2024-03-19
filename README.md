@@ -9,9 +9,8 @@ This is a template repository, see the different __branches__ for the actual eve
 - Challenges: 
 
 ## Your Microsoft contacts
-- 
-- 
-- 
+- Florian Georg (flgeorg@microsoft.com)
+- Benedict Tegethoff (t-btegethoff@microsoft.com)
 
 ## Getting Started with Microsoft Azure
 If you want to get the best Developer experience, you'll need to following:
