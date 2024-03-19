@@ -1,11 +1,11 @@
-# ETH Simulation Hackathon - Azure Quickstart Guide
+# START Global 2024 Hackathon - Azure Quickstart Guide
 
 
 ## Event Overview
-- Schedule: March 1 - 3, 2024 
+- Schedule: March 20 - 22, 2024 
 - Challenges: (see discord)
-- Location: ETH Student Project House
-- Discord channel: https://discord.com/channels/1212470509602603070/1212476005411725363
+- Location: [www.startglobal.org](https://www.startglobal.org/start-hack/home)
+- Discord channel: https://discord.com/channels/807632986370998332/807643242455105558
 
 
 ## Your Microsoft contacts
@@ -36,7 +36,7 @@ These "Azure Passes" come in the form of __promo codes__ and need to be redeemed
 
 __Important__: You only need ONE per team.
 
-* Go to: __https://aka.ms/ETHSimulationHackathon/AzurePasses__
+* Go to: __https://aka.ms/STARTHack2024/AzurePasses__
 * Copy the voucher code and then click “=> Get on board with Azure”
 ![](img/checkin_pass.jpg)
 
@@ -130,7 +130,7 @@ Solutions for Advanced Data Analysis with Python, MLOps etc.
 https://learn.microsoft.com/en-us/fabric/
 
 
-- 
+
 ### Cognitive Services and A.I.
 These are APIs and Cloud tools you can use for building intelligent aplications.
 
