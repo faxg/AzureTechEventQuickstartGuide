@@ -1,5 +1,6 @@
 # START Global 2024 Hackathon - Azure Quickstart Guide
 
+[Link](https://aka.ms/STARTHack2024)
 
 ## Event Overview
 - Schedule: March 20 - 22, 2024 
