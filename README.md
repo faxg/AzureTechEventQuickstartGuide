@@ -6,7 +6,7 @@
 - Schedule: March 20 - 22, 2024 
 - Challenges: (see discord)
 - Location: [www.startglobal.org](https://www.startglobal.org/start-hack/home)
-- Discord channel: https://discord.com/channels/807632986370998332/807643242455105558
+- Discord channel: [https://discord.com/channels/807632986370998332/807643242455105558](https://discord.com/channels/1135303263265226782/1220343676962738287)
 
 
 ## Your Microsoft contacts
